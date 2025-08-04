@@ -7,6 +7,7 @@ A simple and interactive To-Do List web application built using **HTML**, **CSS*
 ## 📸 Preview
 
 ![To-Do List Screenshot]
+<img width="1305" height="749" alt="Image" src="https://github.com/user-attachments/assets/6e4e7236-b4ff-4f25-9c97-73b484b4347b" />
 
 
 ## 🚀 Features
